@@ -6,11 +6,10 @@ st.set_page_config(page_title="Career Companion", page_icon="🎯")
 st.title("🎯 Career Companion")
 st.write("An AI-powered skill-based career guidance platform.")
 
-# User Inputs
-user_name = st.text_input("👤 Enter your name:", key="user_name")
+# User Input
 skills_input = st.text_input("🛠️ Enter your skills (comma-separated):")
 
-if user_name and skills_input:
+if skills_input:
     user_skills = [skill.strip().lower() for skill in skills_input.split(",")]
 
     # Match logic
@@ -52,7 +51,7 @@ if user_name and skills_input:
 
         # 📊 Track Progress
         st.subheader("📊 Track Your Progress")
-        progress_key = f"{user_name}_{best_match}_progress"
+        progress_key = f"{best_match}_progress"
 
         if progress_key not in st.session_state:
             st.session_state[progress_key] = {}
