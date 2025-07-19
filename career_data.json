@@ -1,0 +1,4198 @@
+{
+    "Python Developer": {
+        "skills": [
+            "python",
+            "flask",
+            "sql",
+            "git"
+        ],
+        "projects": [
+            "Web Scraper",
+            "REST API"
+        ],
+        "resources": [
+            "https://realpython.com",
+            "https://docs.python.org/3/"
+        ]
+    },
+    "Java Developer": {
+        "skills": [
+            "java",
+            "spring",
+            "oop",
+            "sql"
+        ],
+        "projects": [
+            "Banking System",
+            "Library Manager"
+        ],
+        "resources": [
+            "https://www.geeksforgeeks.org/",
+            "https://www.udemy.com"
+        ]
+    },
+    "C Programmer": {
+        "skills": [
+            "c",
+            "data structures",
+            "algorithms"
+        ],
+        "projects": [
+            "Compiler Design",
+            "File System Emulator"
+        ],
+        "resources": [
+            "https://ocw.mit.edu/",
+            "https://www.w3schools.com/"
+        ]
+    },
+    "Mathematician": {
+        "skills": [
+            "maths",
+            "calculus",
+            "linear algebra",
+            "statistics"
+        ],
+        "projects": [
+            "Equation Solver",
+            "Data Analyzer"
+        ],
+        "resources": [
+            "https://brilliant.org/",
+            "https://ocw.mit.edu/"
+        ]
+    },
+    "Physicist": {
+        "skills": [
+            "physics",
+            "maths",
+            "simulation",
+            "problem solving"
+        ],
+        "projects": [
+            "Projectile Motion Simulator",
+            "Circuit Simulator"
+        ],
+        "resources": [
+            "https://ocw.mit.edu/",
+            "https://brilliant.org/"
+        ]
+    },
+    "Career Path 6": {
+        "skills": [
+            "machine learning",
+            "postgresql",
+            "flutter",
+            "cybersecurity",
+            "problem solving",
+            "rest api",
+            "linux"
+        ],
+        "projects": [
+            "Portfolio Website",
+            "Portfolio using Three.js",
+            "Flight Price Predictor"
+        ],
+        "resources": [
+            "https://cs50.harvard.edu/x/",
+            "https://roadmap.sh/",
+            "https://firebase.google.com/docs",
+            "https://expressjs.com/"
+        ]
+    },
+    "Career Path 7": {
+        "skills": [
+            "flask",
+            "nextjs",
+            "css",
+            "agile"
+        ],
+        "projects": [
+            "Object Detector",
+            "Compiler in C",
+            "Voice-controlled App"
+        ],
+        "resources": [
+            "https://roadmap.sh/",
+            "https://machinelearningmastery.com/",
+            "https://realpython.com/",
+            "https://www.coursera.org"
+        ]
+    },
+    "Career Path 8": {
+        "skills": [
+            "linux",
+            "bash",
+            "opencv",
+            "java",
+            "flask",
+            "nlp"
+        ],
+        "projects": [
+            "Online Judge System",
+            "Portfolio using Three.js",
+            "Real-time Chat + Video App"
+        ],
+        "resources": [
+            "https://www.hackerrank.com/",
+            "https://cs50.harvard.edu/x/",
+            "https://www.geeksforgeeks.org/",
+            "https://www.coursera.org"
+        ]
+    },
+    "Career Path 9": {
+        "skills": [
+            "project management",
+            "machine learning",
+            "physics",
+            "algorithms",
+            "ui design",
+            "linear algebra",
+            "ux research"
+        ],
+        "projects": [
+            "Task Scheduler",
+            "Portfolio Website",
+            "Online Code Editor"
+        ],
+        "resources": [
+            "https://www.kaggle.com/learn",
+            "https://docs.opencv.org/",
+            "https://developer.mozilla.org/en-US/",
+            "https://reactjs.org/docs/getting-started.html",
+            "https://developer.android.com/training"
+        ]
+    },
+    "Career Path 10": {
+        "skills": [
+            "physics",
+            "dart",
+            "machine learning",
+            "algorithms",
+            "design patterns",
+            "cybersecurity"
+        ],
+        "projects": [
+            "Flight Price Predictor",
+            "Portfolio Website",
+            "3D Model Viewer"
+        ],
+        "resources": [
+            "https://expressjs.com/",
+            "https://nodejs.org/en/learn",
+            "https://reactjs.org/docs/getting-started.html",
+            "https://ocw.mit.edu/",
+            "https://developer.android.com/training"
+        ]
+    },
+    "Career Path 11": {
+        "skills": [
+            "matplotlib",
+            "project management",
+            "kotlin",
+            "content writing",
+            "git"
+        ],
+        "projects": [
+            "Fitness Tracker",
+            "Online Survey System",
+            "Flight Price Predictor",
+            "Portfolio with Blog + CMS"
+        ],
+        "resources": [
+            "https://www.codecademy.com/",
+            "https://www.youtube.com/@TechWithTim",
+            "https://www.udemy.com",
+            "https://brilliant.org/"
+        ]
+    },
+    "Career Path 12": {
+        "skills": [
+            "data structures",
+            "gcp",
+            "cybersecurity",
+            "javascript",
+            "express"
+        ],
+        "projects": [
+            "Portfolio Website",
+            "Job Recommendation System",
+            "Real-time Chat + Video App"
+        ],
+        "resources": [
+            "https://www.w3schools.com/",
+            "https://roadmap.sh/",
+            "https://docs.python.org/3/"
+        ]
+    },
+    "Career Path 13": {
+        "skills": [
+            "networking",
+            "teamwork",
+            "flask",
+            "c",
+            "flutter",
+            "communication",
+            "linux"
+        ],
+        "projects": [
+            "Compiler in C",
+            "Typing Speed Game",
+            "Flight Price Predictor"
+        ],
+        "resources": [
+            "https://www.leetcode.com/",
+            "https://docs.python.org/3/",
+            "https://keras.io/examples/",
+            "https://learn.microsoft.com/en-us/training/",
+            "https://www.youtube.com/@Fireship"
+        ]
+    },
+    "Career Path 14": {
+        "skills": [
+            "numpy",
+            "machine learning",
+            "aws",
+            "java",
+            "linear algebra",
+            "communication",
+            "bash"
+        ],
+        "projects": [
+            "Typing Speed Game",
+            "Instagram Clone",
+            "Multi-language Translator"
+        ],
+        "resources": [
+            "https://www.edx.org/",
+            "https://www.w3schools.com/",
+            "https://docs.docker.com/"
+        ]
+    },
+    "Career Path 15": {
+        "skills": [
+            "pandas",
+            "deep learning",
+            "problem solving",
+            "firebase"
+        ],
+        "projects": [
+            "News Aggregator",
+            "Portfolio Website",
+            "Virtual Classroom",
+            "ToDo App"
+        ],
+        "resources": [
+            "https://keras.io/examples/",
+            "https://brilliant.org/",
+            "https://expressjs.com/",
+            "https://www.w3schools.com/"
+        ]
+    },
+    "Career Path 16": {
+        "skills": [
+            "teamwork",
+            "calculus",
+            "pandas",
+            "gcp",
+            "maths",
+            "oop",
+            "algorithms"
+        ],
+        "projects": [
+            "ToDo App",
+            "Movie Recommender System",
+            "AI Chatbot",
+            "3D Model Viewer"
+        ],
+        "resources": [
+            "https://www.udemy.com",
+            "https://learn.microsoft.com/en-us/training/",
+            "https://www.geeksforgeeks.org/",
+            "https://nodejs.org/en/learn",
+            "https://www.youtube.com/@Fireship"
+        ]
+    },
+    "Career Path 17": {
+        "skills": [
+            "pandas",
+            "content writing",
+            "swift",
+            "ui design",
+            "deep learning",
+            "javascript"
+        ],
+        "projects": [
+            "Portfolio using Three.js",
+            "Fitness Tracker",
+            "Stock Price Tracker",
+            "Image Classifier"
+        ],
+        "resources": [
+            "https://roadmap.sh/",
+            "https://learn.microsoft.com/en-us/training/",
+            "https://www.kaggle.com/learn",
+            "https://keras.io/examples/",
+            "https://docs.opencv.org/"
+        ]
+    },
+    "Career Path 18": {
+        "skills": [
+            "bash",
+            "aws",
+            "docker",
+            "typescript",
+            "django",
+            "r"
+        ],
+        "projects": [
+            "Math Solver",
+            "Portfolio using Three.js",
+            "News Aggregator",
+            "PDF to Text Converter"
+        ],
+        "resources": [
+            "https://www.w3schools.com/",
+            "https://cs50.harvard.edu/x/",
+            "https://reactjs.org/docs/getting-started.html",
+            "https://developer.android.com/training",
+            "https://pytorch.org/tutorials/"
+        ]
+    },
+    "Career Path 19": {
+        "skills": [
+            "aws",
+            "docker",
+            "ui design",
+            "css",
+            "statistics",
+            "swift"
+        ],
+        "projects": [
+            "IoT Device Controller",
+            "Stock Market Alert Bot",
+            "News Aggregator",
+            "Instagram Clone"
+        ],
+        "resources": [
+            "https://nodejs.org/en/learn",
+            "https://www.hackerrank.com/",
+            "https://keras.io/examples/",
+            "https://www.edx.org/",
+            "https://developer.apple.com/"
+        ]
+    },
+    "Career Path 20": {
+        "skills": [
+            "communication",
+            "design patterns",
+            "docker",
+            "bash",
+            "javascript",
+            "matplotlib"
+        ],
+        "projects": [
+            "Expense Manager",
+            "News Aggregator",
+            "Data Visualizer",
+            "Fitness Tracker"
+        ],
+        "resources": [
+            "https://github.com/explore",
+            "https://cloud.google.com/docs",
+            "https://firebase.google.com/docs",
+            "https://docs.python.org/3/"
+        ]
+    },
+    "Career Path 21": {
+        "skills": [
+            "aws",
+            "firebase",
+            "numpy",
+            "bash",
+            "public speaking",
+            "github"
+        ],
+        "projects": [
+            "Physics Simulation",
+            "Note Keeper",
+            "Online Survey System",
+            "IoT Device Controller"
+        ],
+        "resources": [
+            "https://www.w3schools.com/",
+            "https://cloud.google.com/docs",
+            "https://www.youtube.com/@Fireship"
+        ]
+    },
+    "Career Path 22": {
+        "skills": [
+            "flask",
+            "express",
+            "typescript",
+            "graphql",
+            "django"
+        ],
+        "projects": [
+            "Job Recommendation System",
+            "Login System",
+            "Online Code Editor",
+            "Crypto Dashboard"
+        ],
+        "resources": [
+            "https://www.codecademy.com/",
+            "https://www.freecodecamp.org/learn",
+            "https://docs.github.com/",
+            "https://nodejs.org/en/learn"
+        ]
+    },
+    "Career Path 23": {
+        "skills": [
+            "ux research",
+            "graphql",
+            "linux",
+            "content writing"
+        ],
+        "projects": [
+            "Online Code Editor",
+            "3D Model Viewer",
+            "Multi-language Translator",
+            "Note Keeper"
+        ],
+        "resources": [
+            "https://developer.android.com/training",
+            "https://www.youtube.com/@Fireship",
+            "https://cs50.harvard.edu/x/",
+            "https://machinelearningmastery.com/"
+        ]
+    },
+    "Career Path 24": {
+        "skills": [
+            "teamwork",
+            "content writing",
+            "project management",
+            "nodejs"
+        ],
+        "projects": [
+            "ToDo App",
+            "Flight Price Predictor",
+            "Math Solver"
+        ],
+        "resources": [
+            "https://firebase.google.com/docs",
+            "https://realpython.com/",
+            "https://pytorch.org/tutorials/",
+            "https://keras.io/examples/"
+        ]
+    },
+    "Career Path 25": {
+        "skills": [
+            "statistics",
+            "ui design",
+            "calculus",
+            "github",
+            "networking"
+        ],
+        "projects": [
+            "Job Recommendation System",
+            "E-commerce Store",
+            "Multi-language Translator",
+            "Real-time Chat + Video App"
+        ],
+        "resources": [
+            "https://roadmap.sh/",
+            "https://docs.github.com/",
+            "https://www.codecademy.com/",
+            "https://keras.io/examples/"
+        ]
+    },
+    "Career Path 26": {
+        "skills": [
+            "numpy",
+            "bash",
+            "problem solving",
+            "maths",
+            "java"
+        ],
+        "projects": [
+            "Video Streaming Platform",
+            "Task Scheduler",
+            "Online Code Editor"
+        ],
+        "resources": [
+            "https://developer.apple.com/",
+            "https://developer.mozilla.org/en-US/",
+            "https://www.youtube.com/@TheCodingTrain",
+            "https://pytorch.org/tutorials/"
+        ]
+    },
+    "Career Path 27": {
+        "skills": [
+            "data structures",
+            "matplotlib",
+            "bash",
+            "adobe xd"
+        ],
+        "projects": [
+            "Compiler in C",
+            "AI Chatbot",
+            "Fitness Tracker",
+            "Personal Finance Manager"
+        ],
+        "resources": [
+            "https://expressjs.com/",
+            "https://brilliant.org/",
+            "https://developer.mozilla.org/en-US/",
+            "https://docs.docker.com/",
+            "https://nodejs.org/en/learn"
+        ]
+    },
+    "Career Path 28": {
+        "skills": [
+            "cybersecurity",
+            "postgresql",
+            "oop",
+            "matplotlib",
+            "c++",
+            "html",
+            "scrum"
+        ],
+        "projects": [
+            "Fitness Tracker",
+            "Real-time Chat + Video App",
+            "Image Classifier",
+            "Instagram Clone"
+        ],
+        "resources": [
+            "https://spring.io/guides",
+            "https://www.leetcode.com/",
+            "https://expressjs.com/",
+            "https://www.coursera.org"
+        ]
+    },
+    "Career Path 29": {
+        "skills": [
+            "maths",
+            "graphql",
+            "networking",
+            "teamwork"
+        ],
+        "projects": [
+            "Resume Builder",
+            "Stock Price Tracker",
+            "AI Chatbot"
+        ],
+        "resources": [
+            "https://docs.opencv.org/",
+            "https://www.youtube.com/@TechWithTim",
+            "https://pytorch.org/tutorials/"
+        ]
+    },
+    "Career Path 30": {
+        "skills": [
+            "oop",
+            "html",
+            "scrum",
+            "postgresql",
+            "machine learning",
+            "r",
+            "django"
+        ],
+        "projects": [
+            "AI Chatbot",
+            "Personal Finance Manager",
+            "Instagram Clone",
+            "Face Recognition Attendance"
+        ],
+        "resources": [
+            "https://reactjs.org/docs/getting-started.html",
+            "https://developer.android.com/training",
+            "https://nodejs.org/en/learn"
+        ]
+    },
+    "Career Path 31": {
+        "skills": [
+            "pandas",
+            "seo",
+            "dart",
+            "opencv"
+        ],
+        "projects": [
+            "Virtual Lab Simulation",
+            "Login System",
+            "PDF to Text Converter"
+        ],
+        "resources": [
+            "https://docs.docker.com/",
+            "https://developer.apple.com/",
+            "https://ocw.mit.edu/",
+            "https://developer.android.com/training",
+            "https://realpython.com/"
+        ]
+    },
+    "Career Path 32": {
+        "skills": [
+            "github",
+            "rest api",
+            "networking",
+            "ux research",
+            "flask",
+            "java",
+            "typescript"
+        ],
+        "projects": [
+            "Login System",
+            "Stock Market Alert Bot",
+            "Data Visualizer"
+        ],
+        "resources": [
+            "https://aws.amazon.com/training/",
+            "https://brilliant.org/",
+            "https://cloud.google.com/docs"
+        ]
+    },
+    "Career Path 33": {
+        "skills": [
+            "javascript",
+            "seo",
+            "cybersecurity",
+            "azure",
+            "dart"
+        ],
+        "projects": [
+            "Stock Market Alert Bot",
+            "Compiler in C",
+            "Virtual Classroom"
+        ],
+        "resources": [
+            "https://www.w3schools.com/",
+            "https://reactjs.org/docs/getting-started.html",
+            "https://keras.io/examples/",
+            "https://www.codecademy.com/",
+            "https://docs.docker.com/"
+        ]
+    },
+    "Career Path 34": {
+        "skills": [
+            "typescript",
+            "problem solving",
+            "adobe xd",
+            "linux",
+            "teamwork"
+        ],
+        "projects": [
+            "Image Classifier",
+            "Online Survey System",
+            "Personal Finance Manager"
+        ],
+        "resources": [
+            "https://spring.io/guides",
+            "https://www.hackerrank.com/",
+            "https://docs.github.com/",
+            "https://www.freecodecamp.org/learn",
+            "https://cloud.google.com/docs"
+        ]
+    },
+    "Career Path 35": {
+        "skills": [
+            "spring",
+            "machine learning",
+            "nextjs",
+            "calculus",
+            "express",
+            "docker",
+            "deep learning"
+        ],
+        "projects": [
+            "Data Visualizer",
+            "Portfolio using Three.js",
+            "Login System",
+            "Quiz App"
+        ],
+        "resources": [
+            "https://docs.docker.com/",
+            "https://www.youtube.com/@TheCodingTrain",
+            "https://www.udemy.com",
+            "https://docs.python.org/3/"
+        ]
+    },
+    "Career Path 36": {
+        "skills": [
+            "scrum",
+            "kotlin",
+            "dart",
+            "c#",
+            "bash",
+            "project management"
+        ],
+        "projects": [
+            "Chat App",
+            "Data Visualizer",
+            "Physics Simulation",
+            "Math Solver"
+        ],
+        "resources": [
+            "https://github.com/explore",
+            "https://spring.io/guides",
+            "https://learn.microsoft.com/en-us/training/",
+            "https://docs.github.com/"
+        ]
+    },
+    "Career Path 37": {
+        "skills": [
+            "opencv",
+            "seo",
+            "aws",
+            "algorithms",
+            "teamwork",
+            "python",
+            "nlp"
+        ],
+        "projects": [
+            "News Aggregator",
+            "AI Chatbot",
+            "Resume Builder"
+        ],
+        "resources": [
+            "https://github.com/explore",
+            "https://docs.python.org/3/",
+            "https://developer.apple.com/"
+        ]
+    },
+    "Career Path 38": {
+        "skills": [
+            "aws",
+            "ux research",
+            "dart",
+            "django",
+            "firebase"
+        ],
+        "projects": [
+            "Data Visualizer",
+            "Stock Market Alert Bot",
+            "Resume Builder",
+            "Face Recognition Attendance"
+        ],
+        "resources": [
+            "https://www.youtube.com/@TechWithTim",
+            "https://docs.docker.com/",
+            "https://www.codecademy.com/"
+        ]
+    },
+    "Career Path 39": {
+        "skills": [
+            "c#",
+            "design patterns",
+            "python",
+            "cybersecurity",
+            "ux research"
+        ],
+        "projects": [
+            "Math Solver",
+            "Fitness Tracker",
+            "Compiler in C"
+        ],
+        "resources": [
+            "https://expressjs.com/",
+            "https://www.coursera.org",
+            "https://reactjs.org/docs/getting-started.html",
+            "https://docs.docker.com/",
+            "https://www.edx.org/"
+        ]
+    },
+    "Career Path 40": {
+        "skills": [
+            "gcp",
+            "javascript",
+            "bash",
+            "linux",
+            "microservices",
+            "machine learning"
+        ],
+        "projects": [
+            "News Aggregator",
+            "Online Code Editor",
+            "Virtual Classroom"
+        ],
+        "resources": [
+            "https://developer.mozilla.org/en-US/",
+            "https://learn.microsoft.com/en-us/training/",
+            "https://www.datacamp.com/"
+        ]
+    },
+    "Career Path 41": {
+        "skills": [
+            "postgresql",
+            "c++",
+            "problem solving",
+            "project management"
+        ],
+        "projects": [
+            "Stock Market Alert Bot",
+            "Instagram Clone",
+            "Data Visualizer"
+        ],
+        "resources": [
+            "https://flask.palletsprojects.com/",
+            "https://www.geeksforgeeks.org/",
+            "https://cloud.google.com/docs",
+            "https://machinelearningmastery.com/",
+            "https://developer.android.com/training"
+        ]
+    },
+    "Career Path 42": {
+        "skills": [
+            "ui design",
+            "gcp",
+            "problem solving",
+            "github",
+            "cybersecurity"
+        ],
+        "projects": [
+            "Chat App",
+            "Crypto Dashboard",
+            "IoT Device Controller",
+            "Typing Speed Game"
+        ],
+        "resources": [
+            "https://www.w3schools.com/",
+            "https://www.youtube.com/@TechWithTim",
+            "https://www.geeksforgeeks.org/"
+        ]
+    },
+    "Career Path 43": {
+        "skills": [
+            "calculus",
+            "content writing",
+            "c#",
+            "matplotlib",
+            "django",
+            "aws",
+            "flutter"
+        ],
+        "projects": [
+            "Virtual Lab Simulation",
+            "PDF to Text Converter",
+            "Online Code Editor",
+            "YouTube Audio Downloader"
+        ],
+        "resources": [
+            "https://www.udemy.com",
+            "https://learn.microsoft.com/en-us/training/",
+            "https://machinelearningmastery.com/",
+            "https://www.freecodecamp.org/learn",
+            "https://roadmap.sh/"
+        ]
+    },
+    "Career Path 44": {
+        "skills": [
+            "deep learning",
+            "scrum",
+            "rest api",
+            "c++",
+            "microservices",
+            "dart"
+        ],
+        "projects": [
+            "Data Visualizer",
+            "Job Recommendation System",
+            "Stock Price Tracker",
+            "Note Keeper"
+        ],
+        "resources": [
+            "https://roadmap.sh/",
+            "https://www.youtube.com/@Fireship",
+            "https://docs.python.org/3/"
+        ]
+    },
+    "Career Path 45": {
+        "skills": [
+            "calculus",
+            "pandas",
+            "matplotlib",
+            "c#",
+            "mongodb"
+        ],
+        "projects": [
+            "Login System",
+            "Data Visualizer",
+            "Resume Builder",
+            "Voice-controlled App"
+        ],
+        "resources": [
+            "https://learn.microsoft.com/en-us/training/",
+            "https://www.youtube.com/@Fireship",
+            "https://keras.io/examples/",
+            "https://www.codecademy.com/"
+        ]
+    },
+    "Career Path 46": {
+        "skills": [
+            "pandas",
+            "cybersecurity",
+            "git",
+            "agile",
+            "c#"
+        ],
+        "projects": [
+            "Fitness Tracker",
+            "Real-time Chat + Video App",
+            "Math Solver"
+        ],
+        "resources": [
+            "https://spring.io/guides",
+            "https://www.hackerrank.com/",
+            "https://www.w3schools.com/"
+        ]
+    },
+    "Career Path 47": {
+        "skills": [
+            "ux research",
+            "nodejs",
+            "spring",
+            "nlp",
+            "networking",
+            "oop"
+        ],
+        "projects": [
+            "YouTube Audio Downloader",
+            "Flight Price Predictor",
+            "Blog Platform",
+            "Expense Manager"
+        ],
+        "resources": [
+            "https://brilliant.org/",
+            "https://www.youtube.com/@TheCodingTrain",
+            "https://learn.microsoft.com/en-us/training/",
+            "https://keras.io/examples/"
+        ]
+    },
+    "Career Path 48": {
+        "skills": [
+            "github",
+            "adobe xd",
+            "swift",
+            "microservices",
+            "teamwork",
+            "numpy"
+        ],
+        "projects": [
+            "Multi-language Translator",
+            "Social Media Dashboard",
+            "Typing Speed Game",
+            "PDF to Text Converter"
+        ],
+        "resources": [
+            "https://spring.io/guides",
+            "https://www.udemy.com",
+            "https://www.edx.org/"
+        ]
+    },
+    "Career Path 49": {
+        "skills": [
+            "gcp",
+            "graphql",
+            "pandas",
+            "git",
+            "sql",
+            "design patterns",
+            "c#"
+        ],
+        "projects": [
+            "ToDo App",
+            "Physics Simulation",
+            "Typing Speed Game",
+            "Virtual Classroom"
+        ],
+        "resources": [
+            "https://www.geeksforgeeks.org/",
+            "https://www.youtube.com/@TechWithTim",
+            "https://roadmap.sh/"
+        ]
+    },
+    "Career Path 50": {
+        "skills": [
+            "data structures",
+            "css",
+            "nlp",
+            "adobe xd",
+            "project management",
+            "microservices",
+            "c++"
+        ],
+        "projects": [
+            "Fitness Tracker",
+            "Virtual Lab Simulation",
+            "Data Visualizer"
+        ],
+        "resources": [
+            "https://realpython.com/",
+            "https://www.codecademy.com/",
+            "https://docs.github.com/",
+            "https://www.w3schools.com/"
+        ]
+    },
+    "Career Path 51": {
+        "skills": [
+            "deep learning",
+            "typescript",
+            "nlp",
+            "networking"
+        ],
+        "projects": [
+            "Portfolio Website",
+            "Video Streaming Platform",
+            "Job Recommendation System"
+        ],
+        "resources": [
+            "https://flask.palletsprojects.com/",
+            "https://www.datacamp.com/",
+            "https://docs.docker.com/"
+        ]
+    },
+    "Career Path 52": {
+        "skills": [
+            "azure",
+            "aws",
+            "css",
+            "numpy",
+            "nodejs",
+            "docker",
+            "physics"
+        ],
+        "projects": [
+            "Flight Price Predictor",
+            "Social Media Dashboard",
+            "Expense Manager",
+            "Video Streaming Platform"
+        ],
+        "resources": [
+            "https://firebase.google.com/docs",
+            "https://pytorch.org/tutorials/",
+            "https://www.datacamp.com/"
+        ]
+    },
+    "Career Path 53": {
+        "skills": [
+            "communication",
+            "react",
+            "ui design",
+            "oop",
+            "swift",
+            "git"
+        ],
+        "projects": [
+            "Online Survey System",
+            "Stock Price Tracker",
+            "Data Visualizer",
+            "Fitness Tracker"
+        ],
+        "resources": [
+            "https://docs.python.org/3/",
+            "https://expressjs.com/",
+            "https://www.hackerrank.com/",
+            "https://developer.mozilla.org/en-US/",
+            "https://machinelearningmastery.com/"
+        ]
+    },
+    "Career Path 54": {
+        "skills": [
+            "git",
+            "maths",
+            "javascript",
+            "python",
+            "physics",
+            "dart",
+            "express"
+        ],
+        "projects": [
+            "Face Recognition Attendance",
+            "Virtual Classroom",
+            "IoT Device Controller"
+        ],
+        "resources": [
+            "https://github.com/explore",
+            "https://www.youtube.com/@TechWithTim",
+            "https://nodejs.org/en/learn",
+            "https://www.udemy.com",
+            "https://www.datacamp.com/"
+        ]
+    },
+    "Career Path 55": {
+        "skills": [
+            "teamwork",
+            "agile",
+            "firebase",
+            "flutter",
+            "numpy",
+            "kubernetes",
+            "scrum"
+        ],
+        "projects": [
+            "Job Recommendation System",
+            "Online Judge System",
+            "AI Chatbot"
+        ],
+        "resources": [
+            "https://cloud.google.com/docs",
+            "https://docs.opencv.org/",
+            "https://ocw.mit.edu/"
+        ]
+    },
+    "Career Path 56": {
+        "skills": [
+            "gcp",
+            "scrum",
+            "deep learning",
+            "typescript",
+            "matplotlib"
+        ],
+        "projects": [
+            "IoT Device Controller",
+            "Real-time Chat + Video App",
+            "Online Judge System",
+            "Online Code Editor"
+        ],
+        "resources": [
+            "https://www.edx.org/",
+            "https://developer.android.com/training",
+            "https://docs.opencv.org/"
+        ]
+    },
+    "Career Path 57": {
+        "skills": [
+            "data structures",
+            "sql",
+            "c#",
+            "matplotlib",
+            "machine learning"
+        ],
+        "projects": [
+            "Stock Market Alert Bot",
+            "Banking System in Java",
+            "Instagram Clone",
+            "PDF to Text Converter"
+        ],
+        "resources": [
+            "https://kubernetes.io/docs/home/",
+            "https://www.hackerrank.com/",
+            "https://github.com/explore",
+            "https://www.datacamp.com/",
+            "https://www.kaggle.com/learn"
+        ]
+    },
+    "Career Path 58": {
+        "skills": [
+            "r",
+            "nodejs",
+            "sql",
+            "teamwork"
+        ],
+        "projects": [
+            "Portfolio Website",
+            "Weather App",
+            "Online Code Editor"
+        ],
+        "resources": [
+            "https://www.youtube.com/@TechWithTim",
+            "https://www.w3schools.com/",
+            "https://developer.mozilla.org/en-US/",
+            "https://www.udemy.com",
+            "https://roadmap.sh/"
+        ]
+    },
+    "Career Path 59": {
+        "skills": [
+            "algorithms",
+            "bash",
+            "postgresql",
+            "calculus",
+            "physics",
+            "ui design"
+        ],
+        "projects": [
+            "Virtual Classroom",
+            "Banking System in Java",
+            "Job Recommendation System",
+            "Video Streaming Platform"
+        ],
+        "resources": [
+            "https://docs.python.org/3/",
+            "https://www.codecademy.com/",
+            "https://developer.mozilla.org/en-US/",
+            "https://cloud.google.com/docs",
+            "https://realpython.com/"
+        ]
+    },
+    "Career Path 60": {
+        "skills": [
+            "r",
+            "agile",
+            "scrum",
+            "figma",
+            "nlp"
+        ],
+        "projects": [
+            "Online Survey System",
+            "Blog Platform",
+            "Real-time Chat + Video App"
+        ],
+        "resources": [
+            "https://firebase.google.com/docs",
+            "https://www.edx.org/",
+            "https://docs.docker.com/",
+            "https://docs.opencv.org/"
+        ]
+    },
+    "Career Path 61": {
+        "skills": [
+            "github",
+            "ux research",
+            "javascript",
+            "aws",
+            "content writing",
+            "nlp",
+            "kubernetes"
+        ],
+        "projects": [
+            "Portfolio Website",
+            "Portfolio with Blog + CMS",
+            "IoT Device Controller"
+        ],
+        "resources": [
+            "https://roadmap.sh/",
+            "https://www.leetcode.com/",
+            "https://flask.palletsprojects.com/"
+        ]
+    },
+    "Career Path 62": {
+        "skills": [
+            "gcp",
+            "graphql",
+            "flutter",
+            "java",
+            "python",
+            "git"
+        ],
+        "projects": [
+            "Personal Finance Manager",
+            "Portfolio using Three.js",
+            "Portfolio Website"
+        ],
+        "resources": [
+            "https://expressjs.com/",
+            "https://www.udemy.com",
+            "https://www.w3schools.com/",
+            "https://docs.github.com/",
+            "https://www.youtube.com/@TechWithTim"
+        ]
+    },
+    "Career Path 63": {
+        "skills": [
+            "c++",
+            "microservices",
+            "linear algebra",
+            "flutter"
+        ],
+        "projects": [
+            "Personal Finance Manager",
+            "Virtual Lab Simulation",
+            "Online Judge System"
+        ],
+        "resources": [
+            "https://firebase.google.com/docs",
+            "https://www.geeksforgeeks.org/",
+            "https://www.w3schools.com/",
+            "https://expressjs.com/",
+            "https://brilliant.org/"
+        ]
+    },
+    "Career Path 64": {
+        "skills": [
+            "communication",
+            "problem solving",
+            "seo",
+            "flutter"
+        ],
+        "projects": [
+            "Voice-controlled App",
+            "E-commerce Store",
+            "Video Editing Tool",
+            "3D Model Viewer"
+        ],
+        "resources": [
+            "https://www.leetcode.com/",
+            "https://firebase.google.com/docs",
+            "https://www.udemy.com",
+            "https://docs.opencv.org/"
+        ]
+    },
+    "Career Path 65": {
+        "skills": [
+            "cybersecurity",
+            "linear algebra",
+            "git",
+            "ui design",
+            "public speaking",
+            "matplotlib"
+        ],
+        "projects": [
+            "Instagram Clone",
+            "Video Streaming Platform",
+            "Stock Market Alert Bot"
+        ],
+        "resources": [
+            "https://www.freecodecamp.org/learn",
+            "https://reactjs.org/docs/getting-started.html",
+            "https://realpython.com/",
+            "https://www.youtube.com/@TheCodingTrain"
+        ]
+    },
+    "Career Path 66": {
+        "skills": [
+            "ux research",
+            "bash",
+            "django",
+            "maths",
+            "nlp"
+        ],
+        "projects": [
+            "Weather App",
+            "Portfolio with Blog + CMS",
+            "Chat App"
+        ],
+        "resources": [
+            "https://www.datacamp.com/",
+            "https://developer.android.com/training",
+            "https://developer.mozilla.org/en-US/"
+        ]
+    },
+    "Career Path 67": {
+        "skills": [
+            "html",
+            "bash",
+            "project management",
+            "networking"
+        ],
+        "projects": [
+            "ToDo App",
+            "3D Model Viewer",
+            "YouTube Audio Downloader",
+            "Social Media Dashboard"
+        ],
+        "resources": [
+            "https://nodejs.org/en/learn",
+            "https://keras.io/examples/",
+            "https://ocw.mit.edu/",
+            "https://brilliant.org/",
+            "https://docs.docker.com/"
+        ]
+    },
+    "Career Path 68": {
+        "skills": [
+            "calculus",
+            "postgresql",
+            "networking",
+            "css",
+            "statistics"
+        ],
+        "projects": [
+            "Data Visualizer",
+            "Currency Converter",
+            "Portfolio using Three.js",
+            "ToDo App"
+        ],
+        "resources": [
+            "https://brilliant.org/",
+            "https://learn.microsoft.com/en-us/training/",
+            "https://developer.apple.com/",
+            "https://ocw.mit.edu/",
+            "https://docs.opencv.org/"
+        ]
+    },
+    "Career Path 69": {
+        "skills": [
+            "mongodb",
+            "oop",
+            "content writing",
+            "design patterns",
+            "firebase",
+            "rest api",
+            "public speaking"
+        ],
+        "projects": [
+            "Stock Market Alert Bot",
+            "Fitness Tracker",
+            "Crypto Dashboard"
+        ],
+        "resources": [
+            "https://keras.io/examples/",
+            "https://developer.apple.com/",
+            "https://nodejs.org/en/learn",
+            "https://www.freecodecamp.org/learn",
+            "https://www.datacamp.com/"
+        ]
+    },
+    "Career Path 70": {
+        "skills": [
+            "problem solving",
+            "javascript",
+            "c#",
+            "azure",
+            "kubernetes",
+            "docker",
+            "microservices"
+        ],
+        "projects": [
+            "Blog Platform",
+            "IoT Device Controller",
+            "Real-time Chat + Video App",
+            "Virtual Lab Simulation"
+        ],
+        "resources": [
+            "https://docs.python.org/3/",
+            "https://machinelearningmastery.com/",
+            "https://www.hackerrank.com/",
+            "https://ocw.mit.edu/"
+        ]
+    },
+    "Career Path 71": {
+        "skills": [
+            "algorithms",
+            "project management",
+            "physics",
+            "seo"
+        ],
+        "projects": [
+            "Quiz App",
+            "Real-time Chat + Video App",
+            "Resume Builder",
+            "Object Detector"
+        ],
+        "resources": [
+            "https://learn.microsoft.com/en-us/training/",
+            "https://flask.palletsprojects.com/",
+            "https://machinelearningmastery.com/",
+            "https://spring.io/guides"
+        ]
+    },
+    "Career Path 72": {
+        "skills": [
+            "data structures",
+            "javascript",
+            "statistics",
+            "matplotlib",
+            "agile"
+        ],
+        "projects": [
+            "Virtual Lab Simulation",
+            "Online Survey System",
+            "Math Solver"
+        ],
+        "resources": [
+            "https://www.kaggle.com/learn",
+            "https://www.datacamp.com/",
+            "https://reactjs.org/docs/getting-started.html",
+            "https://pytorch.org/tutorials/"
+        ]
+    },
+    "Career Path 73": {
+        "skills": [
+            "machine learning",
+            "graphql",
+            "c#",
+            "physics",
+            "numpy",
+            "problem solving"
+        ],
+        "projects": [
+            "Instagram Clone",
+            "Object Detector",
+            "Math Solver"
+        ],
+        "resources": [
+            "https://docs.github.com/",
+            "https://docs.docker.com/",
+            "https://cloud.google.com/docs",
+            "https://pytorch.org/tutorials/"
+        ]
+    },
+    "Career Path 74": {
+        "skills": [
+            "bash",
+            "graphql",
+            "gcp",
+            "kotlin"
+        ],
+        "projects": [
+            "Banking System in Java",
+            "Portfolio Website",
+            "Video Streaming Platform",
+            "Task Scheduler"
+        ],
+        "resources": [
+            "https://developer.android.com/training",
+            "https://roadmap.sh/",
+            "https://spring.io/guides"
+        ]
+    },
+    "Career Path 75": {
+        "skills": [
+            "python",
+            "algorithms",
+            "bash",
+            "agile",
+            "typescript"
+        ],
+        "projects": [
+            "Job Recommendation System",
+            "Instagram Clone",
+            "Stock Price Tracker",
+            "Video Streaming Platform"
+        ],
+        "resources": [
+            "https://www.youtube.com/@Fireship",
+            "https://aws.amazon.com/training/",
+            "https://docs.opencv.org/"
+        ]
+    },
+    "Career Path 76": {
+        "skills": [
+            "cybersecurity",
+            "c#",
+            "opencv",
+            "dart"
+        ],
+        "projects": [
+            "Video Streaming Platform",
+            "Real-time Chat + Video App",
+            "Job Recommendation System"
+        ],
+        "resources": [
+            "https://developer.apple.com/",
+            "https://www.youtube.com/@TheCodingTrain",
+            "https://docs.python.org/3/",
+            "https://kubernetes.io/docs/home/"
+        ]
+    },
+    "Career Path 77": {
+        "skills": [
+            "azure",
+            "docker",
+            "javascript",
+            "teamwork",
+            "linear algebra"
+        ],
+        "projects": [
+            "IoT Device Controller",
+            "Real-time Chat + Video App",
+            "Virtual Classroom",
+            "Virtual Lab Simulation"
+        ],
+        "resources": [
+            "https://developer.mozilla.org/en-US/",
+            "https://docs.opencv.org/",
+            "https://reactjs.org/docs/getting-started.html"
+        ]
+    },
+    "Career Path 78": {
+        "skills": [
+            "matplotlib",
+            "r",
+            "teamwork",
+            "kotlin"
+        ],
+        "projects": [
+            "Fitness Tracker",
+            "Movie Recommender System",
+            "Portfolio with Blog + CMS"
+        ],
+        "resources": [
+            "https://www.datacamp.com/",
+            "https://keras.io/examples/",
+            "https://developer.android.com/training",
+            "https://ocw.mit.edu/"
+        ]
+    },
+    "Career Path 79": {
+        "skills": [
+            "python",
+            "nlp",
+            "linux",
+            "firebase",
+            "seo",
+            "public speaking",
+            "cybersecurity"
+        ],
+        "projects": [
+            "Instagram Clone",
+            "Online Judge System",
+            "Movie Recommender System",
+            "Multi-language Translator"
+        ],
+        "resources": [
+            "https://www.codecademy.com/",
+            "https://docs.opencv.org/",
+            "https://www.youtube.com/@TechWithTim",
+            "https://pytorch.org/tutorials/"
+        ]
+    },
+    "Career Path 80": {
+        "skills": [
+            "oop",
+            "github",
+            "microservices",
+            "c++",
+            "data structures"
+        ],
+        "projects": [
+            "Data Visualizer",
+            "3D Model Viewer",
+            "IoT Device Controller",
+            "Social Media Dashboard"
+        ],
+        "resources": [
+            "https://www.leetcode.com/",
+            "https://docs.docker.com/",
+            "https://github.com/explore",
+            "https://www.w3schools.com/",
+            "https://www.youtube.com/@TheCodingTrain"
+        ]
+    },
+    "Career Path 81": {
+        "skills": [
+            "sql",
+            "flask",
+            "nextjs",
+            "git"
+        ],
+        "projects": [
+            "Instagram Clone",
+            "Flight Price Predictor",
+            "Video Streaming Platform"
+        ],
+        "resources": [
+            "https://nodejs.org/en/learn",
+            "https://developer.android.com/training",
+            "https://roadmap.sh/",
+            "https://expressjs.com/",
+            "https://docs.opencv.org/"
+        ]
+    },
+    "Career Path 82": {
+        "skills": [
+            "dart",
+            "aws",
+            "ux research",
+            "microservices",
+            "rest api",
+            "kotlin"
+        ],
+        "projects": [
+            "Virtual Lab Simulation",
+            "Login System",
+            "Portfolio with Blog + CMS",
+            "Portfolio Website"
+        ],
+        "resources": [
+            "https://firebase.google.com/docs",
+            "https://www.coursera.org",
+            "https://www.youtube.com/@TechWithTim",
+            "https://www.datacamp.com/"
+        ]
+    },
+    "Career Path 83": {
+        "skills": [
+            "oop",
+            "opencv",
+            "typescript",
+            "networking"
+        ],
+        "projects": [
+            "Video Editing Tool",
+            "Banking System in Java",
+            "Multi-language Translator"
+        ],
+        "resources": [
+            "https://www.youtube.com/@Fireship",
+            "https://reactjs.org/docs/getting-started.html",
+            "https://www.leetcode.com/",
+            "https://machinelearningmastery.com/"
+        ]
+    },
+    "Career Path 84": {
+        "skills": [
+            "express",
+            "deep learning",
+            "content writing",
+            "html"
+        ],
+        "projects": [
+            "Physics Simulation",
+            "Task Scheduler",
+            "Login System",
+            "Voice-controlled App"
+        ],
+        "resources": [
+            "https://ocw.mit.edu/",
+            "https://cloud.google.com/docs",
+            "https://brilliant.org/"
+        ]
+    },
+    "Career Path 85": {
+        "skills": [
+            "opencv",
+            "linear algebra",
+            "dart",
+            "calculus",
+            "adobe xd",
+            "aws",
+            "ui design"
+        ],
+        "projects": [
+            "Instagram Clone",
+            "Speech-to-Text App",
+            "Stock Price Tracker",
+            "PDF to Text Converter"
+        ],
+        "resources": [
+            "https://expressjs.com/",
+            "https://reactjs.org/docs/getting-started.html",
+            "https://docs.github.com/"
+        ]
+    },
+    "Career Path 86": {
+        "skills": [
+            "agile",
+            "ux research",
+            "cybersecurity",
+            "gcp",
+            "sql",
+            "c#",
+            "typescript"
+        ],
+        "projects": [
+            "Instagram Clone",
+            "Physics Simulation",
+            "E-commerce Store"
+        ],
+        "resources": [
+            "https://docs.python.org/3/",
+            "https://www.codecademy.com/",
+            "https://www.udemy.com"
+        ]
+    },
+    "Career Path 87": {
+        "skills": [
+            "adobe xd",
+            "rest api",
+            "pandas",
+            "scrum"
+        ],
+        "projects": [
+            "Instagram Clone",
+            "ToDo App",
+            "Personal Finance Manager"
+        ],
+        "resources": [
+            "https://www.hackerrank.com/",
+            "https://kubernetes.io/docs/home/",
+            "https://expressjs.com/",
+            "https://pytorch.org/tutorials/"
+        ]
+    },
+    "Career Path 88": {
+        "skills": [
+            "gcp",
+            "java",
+            "linux",
+            "project management"
+        ],
+        "projects": [
+            "Expense Manager",
+            "Image Classifier",
+            "E-commerce Store"
+        ],
+        "resources": [
+            "https://developer.android.com/training",
+            "https://kubernetes.io/docs/home/",
+            "https://docs.opencv.org/",
+            "https://firebase.google.com/docs",
+            "https://cs50.harvard.edu/x/"
+        ]
+    },
+    "Career Path 89": {
+        "skills": [
+            "design patterns",
+            "matplotlib",
+            "django",
+            "kotlin",
+            "networking",
+            "communication"
+        ],
+        "projects": [
+            "Object Detector",
+            "Compiler in C",
+            "Real-time Chat + Video App"
+        ],
+        "resources": [
+            "https://www.leetcode.com/",
+            "https://developer.mozilla.org/en-US/",
+            "https://www.youtube.com/@TheCodingTrain",
+            "https://pytorch.org/tutorials/"
+        ]
+    },
+    "Career Path 90": {
+        "skills": [
+            "nextjs",
+            "numpy",
+            "java",
+            "mongodb"
+        ],
+        "projects": [
+            "Real-time Chat + Video App",
+            "Math Solver",
+            "Portfolio with Blog + CMS",
+            "Voice-controlled App"
+        ],
+        "resources": [
+            "https://docs.docker.com/",
+            "https://www.leetcode.com/",
+            "https://expressjs.com/",
+            "https://reactjs.org/docs/getting-started.html"
+        ]
+    },
+    "Career Path 91": {
+        "skills": [
+            "figma",
+            "spring",
+            "physics",
+            "dart",
+            "git",
+            "microservices"
+        ],
+        "projects": [
+            "Movie Recommender System",
+            "Multi-language Translator",
+            "Video Editing Tool"
+        ],
+        "resources": [
+            "https://www.geeksforgeeks.org/",
+            "https://pytorch.org/tutorials/",
+            "https://www.leetcode.com/"
+        ]
+    },
+    "Career Path 92": {
+        "skills": [
+            "swift",
+            "graphql",
+            "algorithms",
+            "linux"
+        ],
+        "projects": [
+            "Typing Speed Game",
+            "Online Judge System",
+            "Expense Manager"
+        ],
+        "resources": [
+            "https://nodejs.org/en/learn",
+            "https://www.youtube.com/@Fireship",
+            "https://www.geeksforgeeks.org/",
+            "https://expressjs.com/",
+            "https://brilliant.org/"
+        ]
+    },
+    "Career Path 93": {
+        "skills": [
+            "nodejs",
+            "figma",
+            "nlp",
+            "linux",
+            "content writing"
+        ],
+        "projects": [
+            "Video Streaming Platform",
+            "Resume Builder",
+            "Expense Manager"
+        ],
+        "resources": [
+            "https://docs.github.com/",
+            "https://reactjs.org/docs/getting-started.html",
+            "https://aws.amazon.com/training/",
+            "https://ocw.mit.edu/"
+        ]
+    },
+    "Career Path 94": {
+        "skills": [
+            "scrum",
+            "networking",
+            "linux",
+            "django",
+            "seo",
+            "postgresql"
+        ],
+        "projects": [
+            "Portfolio using Three.js",
+            "Typing Speed Game",
+            "Virtual Classroom",
+            "Video Editing Tool"
+        ],
+        "resources": [
+            "https://kubernetes.io/docs/home/",
+            "https://firebase.google.com/docs",
+            "https://www.udemy.com",
+            "https://developer.mozilla.org/en-US/",
+            "https://aws.amazon.com/training/"
+        ]
+    },
+    "Career Path 95": {
+        "skills": [
+            "data structures",
+            "gcp",
+            "express",
+            "html",
+            "maths",
+            "c++",
+            "git"
+        ],
+        "projects": [
+            "Movie Recommender System",
+            "AI Chatbot",
+            "Virtual Lab Simulation"
+        ],
+        "resources": [
+            "https://docs.docker.com/",
+            "https://cs50.harvard.edu/x/",
+            "https://www.youtube.com/@Fireship"
+        ]
+    },
+    "Career Path 96": {
+        "skills": [
+            "teamwork",
+            "maths",
+            "gcp",
+            "linear algebra",
+            "flask",
+            "agile",
+            "ux research"
+        ],
+        "projects": [
+            "Resume Builder",
+            "Online Judge System",
+            "Banking System in Java"
+        ],
+        "resources": [
+            "https://www.udemy.com",
+            "https://brilliant.org/",
+            "https://www.datacamp.com/"
+        ]
+    },
+    "Career Path 97": {
+        "skills": [
+            "django",
+            "linear algebra",
+            "docker",
+            "design patterns",
+            "mongodb",
+            "maths"
+        ],
+        "projects": [
+            "PDF to Text Converter",
+            "Banking System in Java",
+            "Job Recommendation System"
+        ],
+        "resources": [
+            "https://docs.docker.com/",
+            "https://www.kaggle.com/learn",
+            "https://www.edx.org/",
+            "https://roadmap.sh/"
+        ]
+    },
+    "Career Path 98": {
+        "skills": [
+            "c#",
+            "numpy",
+            "data structures",
+            "git",
+            "project management"
+        ],
+        "projects": [
+            "Stock Price Tracker",
+            "IoT Device Controller",
+            "News Aggregator",
+            "Image Classifier"
+        ],
+        "resources": [
+            "https://docs.python.org/3/",
+            "https://developer.apple.com/",
+            "https://ocw.mit.edu/",
+            "https://aws.amazon.com/training/"
+        ]
+    },
+    "Career Path 99": {
+        "skills": [
+            "maths",
+            "communication",
+            "calculus",
+            "networking",
+            "statistics",
+            "ux research",
+            "cybersecurity"
+        ],
+        "projects": [
+            "Personal Finance Manager",
+            "Video Streaming Platform",
+            "Stock Price Tracker",
+            "AI Chatbot"
+        ],
+        "resources": [
+            "https://www.edx.org/",
+            "https://www.youtube.com/@TechWithTim",
+            "https://spring.io/guides",
+            "https://docs.docker.com/"
+        ]
+    },
+    "Career Path 100": {
+        "skills": [
+            "swift",
+            "typescript",
+            "html",
+            "gcp"
+        ],
+        "projects": [
+            "Banking System in Java",
+            "Quiz App",
+            "Portfolio using Three.js"
+        ],
+        "resources": [
+            "https://spring.io/guides",
+            "https://www.datacamp.com/",
+            "https://github.com/explore",
+            "https://www.geeksforgeeks.org/",
+            "https://brilliant.org/"
+        ]
+    },
+    "Career Path 101": {
+        "skills": [
+            "oop",
+            "gcp",
+            "css",
+            "maths",
+            "data structures",
+            "nextjs"
+        ],
+        "projects": [
+            "Job Recommendation System",
+            "Video Streaming Platform",
+            "Crypto Dashboard",
+            "Speech-to-Text App"
+        ],
+        "resources": [
+            "https://brilliant.org/",
+            "https://developer.mozilla.org/en-US/",
+            "https://machinelearningmastery.com/",
+            "https://docs.python.org/3/",
+            "https://spring.io/guides"
+        ]
+    },
+    "Career Path 102": {
+        "skills": [
+            "express",
+            "c#",
+            "graphql",
+            "teamwork",
+            "seo",
+            "networking",
+            "javascript"
+        ],
+        "projects": [
+            "Data Visualizer",
+            "Flight Price Predictor",
+            "Voice-controlled App"
+        ],
+        "resources": [
+            "https://www.udemy.com",
+            "https://cloud.google.com/docs",
+            "https://www.w3schools.com/"
+        ]
+    },
+    "Career Path 103": {
+        "skills": [
+            "matplotlib",
+            "calculus",
+            "oop",
+            "figma",
+            "agile",
+            "python"
+        ],
+        "projects": [
+            "Data Visualizer",
+            "Voice-controlled App",
+            "Social Media Dashboard",
+            "Movie Recommender System"
+        ],
+        "resources": [
+            "https://developer.android.com/training",
+            "https://firebase.google.com/docs",
+            "https://docs.opencv.org/",
+            "https://www.w3schools.com/",
+            "https://brilliant.org/"
+        ]
+    },
+    "Career Path 104": {
+        "skills": [
+            "git",
+            "nodejs",
+            "calculus",
+            "spring",
+            "swift",
+            "adobe xd"
+        ],
+        "projects": [
+            "YouTube Audio Downloader",
+            "Quiz App",
+            "Currency Converter",
+            "Chat App"
+        ],
+        "resources": [
+            "https://www.youtube.com/@Fireship",
+            "https://www.youtube.com/@TechWithTim",
+            "https://github.com/explore",
+            "https://www.w3schools.com/"
+        ]
+    },
+    "Career Path 105": {
+        "skills": [
+            "seo",
+            "javascript",
+            "bash",
+            "sql",
+            "flutter",
+            "rest api",
+            "gcp"
+        ],
+        "projects": [
+            "YouTube Audio Downloader",
+            "Portfolio Website",
+            "Compiler in C",
+            "3D Model Viewer"
+        ],
+        "resources": [
+            "https://machinelearningmastery.com/",
+            "https://cs50.harvard.edu/x/",
+            "https://github.com/explore"
+        ]
+    },
+    "Career Path 106": {
+        "skills": [
+            "microservices",
+            "project management",
+            "maths",
+            "networking",
+            "git",
+            "c"
+        ],
+        "projects": [
+            "Math Solver",
+            "Video Editing Tool",
+            "Login System"
+        ],
+        "resources": [
+            "https://github.com/explore",
+            "https://www.w3schools.com/",
+            "https://docs.opencv.org/"
+        ]
+    },
+    "Career Path 107": {
+        "skills": [
+            "dart",
+            "matplotlib",
+            "html",
+            "data structures",
+            "communication",
+            "bash",
+            "linux"
+        ],
+        "projects": [
+            "Task Scheduler",
+            "Portfolio using Three.js",
+            "Stock Price Tracker"
+        ],
+        "resources": [
+            "https://pytorch.org/tutorials/",
+            "https://www.hackerrank.com/",
+            "https://www.youtube.com/@TheCodingTrain"
+        ]
+    },
+    "Career Path 108": {
+        "skills": [
+            "c++",
+            "cybersecurity",
+            "seo",
+            "linux"
+        ],
+        "projects": [
+            "PDF to Text Converter",
+            "Banking System in Java",
+            "Physics Simulation",
+            "Weather App"
+        ],
+        "resources": [
+            "https://machinelearningmastery.com/",
+            "https://cs50.harvard.edu/x/",
+            "https://developer.mozilla.org/en-US/",
+            "https://www.w3schools.com/",
+            "https://www.hackerrank.com/"
+        ]
+    },
+    "Career Path 109": {
+        "skills": [
+            "postgresql",
+            "sql",
+            "python",
+            "azure"
+        ],
+        "projects": [
+            "Video Streaming Platform",
+            "Video Editing Tool",
+            "Fitness Tracker",
+            "AI Chatbot"
+        ],
+        "resources": [
+            "https://pytorch.org/tutorials/",
+            "https://firebase.google.com/docs",
+            "https://www.youtube.com/@Fireship",
+            "https://docs.docker.com/"
+        ]
+    },
+    "Career Path 110": {
+        "skills": [
+            "agile",
+            "c++",
+            "python",
+            "opencv"
+        ],
+        "projects": [
+            "Instagram Clone",
+            "AI Chatbot",
+            "Video Editing Tool",
+            "Face Recognition Attendance"
+        ],
+        "resources": [
+            "https://www.datacamp.com/",
+            "https://machinelearningmastery.com/",
+            "https://developer.android.com/training",
+            "https://developer.mozilla.org/en-US/"
+        ]
+    },
+    "Career Path 111": {
+        "skills": [
+            "teamwork",
+            "azure",
+            "gcp",
+            "javascript",
+            "swift",
+            "bash"
+        ],
+        "projects": [
+            "Stock Price Tracker",
+            "Stock Market Alert Bot",
+            "Portfolio with Blog + CMS"
+        ],
+        "resources": [
+            "https://www.youtube.com/@TheCodingTrain",
+            "https://expressjs.com/",
+            "https://www.hackerrank.com/",
+            "https://www.youtube.com/@Fireship",
+            "https://developer.android.com/training"
+        ]
+    },
+    "Career Path 112": {
+        "skills": [
+            "kubernetes",
+            "nlp",
+            "azure",
+            "rest api",
+            "express",
+            "teamwork",
+            "pandas"
+        ],
+        "projects": [
+            "Personal Finance Manager",
+            "Weather App",
+            "Video Editing Tool",
+            "Flight Price Predictor"
+        ],
+        "resources": [
+            "https://www.datacamp.com/",
+            "https://reactjs.org/docs/getting-started.html",
+            "https://ocw.mit.edu/",
+            "https://docs.python.org/3/"
+        ]
+    },
+    "Career Path 113": {
+        "skills": [
+            "adobe xd",
+            "aws",
+            "firebase",
+            "microservices"
+        ],
+        "projects": [
+            "Online Survey System",
+            "Crypto Dashboard",
+            "Video Streaming Platform",
+            "Virtual Lab Simulation"
+        ],
+        "resources": [
+            "https://brilliant.org/",
+            "https://www.udemy.com",
+            "https://developer.android.com/training"
+        ]
+    },
+    "Career Path 114": {
+        "skills": [
+            "typescript",
+            "project management",
+            "ui design",
+            "ux research",
+            "dart",
+            "content writing"
+        ],
+        "projects": [
+            "Data Visualizer",
+            "Stock Market Alert Bot",
+            "Real-time Chat + Video App"
+        ],
+        "resources": [
+            "https://realpython.com/",
+            "https://reactjs.org/docs/getting-started.html",
+            "https://www.freecodecamp.org/learn"
+        ]
+    },
+    "Career Path 115": {
+        "skills": [
+            "r",
+            "typescript",
+            "numpy",
+            "react"
+        ],
+        "projects": [
+            "Voice-controlled App",
+            "Quiz App",
+            "Weather App",
+            "Online Survey System"
+        ],
+        "resources": [
+            "https://aws.amazon.com/training/",
+            "https://www.coursera.org",
+            "https://ocw.mit.edu/",
+            "https://reactjs.org/docs/getting-started.html"
+        ]
+    },
+    "Career Path 116": {
+        "skills": [
+            "swift",
+            "public speaking",
+            "gcp",
+            "python",
+            "project management",
+            "opencv",
+            "graphql"
+        ],
+        "projects": [
+            "Virtual Lab Simulation",
+            "Object Detector",
+            "Movie Recommender System",
+            "Weather App"
+        ],
+        "resources": [
+            "https://developer.apple.com/",
+            "https://docs.python.org/3/",
+            "https://spring.io/guides",
+            "https://www.geeksforgeeks.org/",
+            "https://cloud.google.com/docs"
+        ]
+    },
+    "Career Path 117": {
+        "skills": [
+            "physics",
+            "networking",
+            "maths",
+            "flutter",
+            "bash",
+            "git",
+            "microservices"
+        ],
+        "projects": [
+            "Weather App",
+            "Blog Platform",
+            "Banking System in Java",
+            "Online Code Editor"
+        ],
+        "resources": [
+            "https://firebase.google.com/docs",
+            "https://www.youtube.com/@TheCodingTrain",
+            "https://machinelearningmastery.com/"
+        ]
+    },
+    "Career Path 118": {
+        "skills": [
+            "ux research",
+            "graphql",
+            "mongodb",
+            "scrum",
+            "c++",
+            "opencv",
+            "agile"
+        ],
+        "projects": [
+            "Multi-language Translator",
+            "YouTube Audio Downloader",
+            "Real-time Chat + Video App",
+            "Instagram Clone"
+        ],
+        "resources": [
+            "https://www.udemy.com",
+            "https://keras.io/examples/",
+            "https://docs.github.com/",
+            "https://spring.io/guides"
+        ]
+    },
+    "Career Path 119": {
+        "skills": [
+            "machine learning",
+            "css",
+            "nlp",
+            "data structures",
+            "sql",
+            "dart"
+        ],
+        "projects": [
+            "Math Solver",
+            "Video Editing Tool",
+            "ToDo App",
+            "Stock Price Tracker"
+        ],
+        "resources": [
+            "https://learn.microsoft.com/en-us/training/",
+            "https://pytorch.org/tutorials/",
+            "https://www.codecademy.com/",
+            "https://developer.apple.com/"
+        ]
+    },
+    "Career Path 120": {
+        "skills": [
+            "statistics",
+            "django",
+            "ui design",
+            "git",
+            "data structures"
+        ],
+        "projects": [
+            "ToDo App",
+            "Online Judge System",
+            "E-commerce Store"
+        ],
+        "resources": [
+            "https://keras.io/examples/",
+            "https://cloud.google.com/docs",
+            "https://www.youtube.com/@TheCodingTrain"
+        ]
+    },
+    "Career Path 121": {
+        "skills": [
+            "project management",
+            "rest api",
+            "nlp",
+            "aws",
+            "deep learning",
+            "adobe xd",
+            "seo"
+        ],
+        "projects": [
+            "IoT Device Controller",
+            "Face Recognition Attendance",
+            "Quiz App",
+            "News Aggregator"
+        ],
+        "resources": [
+            "https://www.geeksforgeeks.org/",
+            "https://docs.docker.com/",
+            "https://www.kaggle.com/learn"
+        ]
+    },
+    "Career Path 122": {
+        "skills": [
+            "microservices",
+            "project management",
+            "scrum",
+            "kotlin"
+        ],
+        "projects": [
+            "Virtual Lab Simulation",
+            "Personal Finance Manager",
+            "Flight Price Predictor",
+            "ToDo App"
+        ],
+        "resources": [
+            "https://www.leetcode.com/",
+            "https://aws.amazon.com/training/",
+            "https://spring.io/guides"
+        ]
+    },
+    "Career Path 123": {
+        "skills": [
+            "postgresql",
+            "algorithms",
+            "swift",
+            "design patterns"
+        ],
+        "projects": [
+            "Chat App",
+            "E-commerce Store",
+            "Crypto Dashboard"
+        ],
+        "resources": [
+            "https://www.w3schools.com/",
+            "https://cloud.google.com/docs",
+            "https://www.freecodecamp.org/learn"
+        ]
+    },
+    "Career Path 124": {
+        "skills": [
+            "django",
+            "java",
+            "ux research",
+            "machine learning",
+            "figma"
+        ],
+        "projects": [
+            "Stock Price Tracker",
+            "Resume Builder",
+            "Math Solver"
+        ],
+        "resources": [
+            "https://cs50.harvard.edu/x/",
+            "https://learn.microsoft.com/en-us/training/",
+            "https://www.coursera.org"
+        ]
+    },
+    "Career Path 125": {
+        "skills": [
+            "project management",
+            "postgresql",
+            "microservices",
+            "teamwork",
+            "typescript"
+        ],
+        "projects": [
+            "Online Survey System",
+            "PDF to Text Converter",
+            "Crypto Dashboard",
+            "Physics Simulation"
+        ],
+        "resources": [
+            "https://realpython.com/",
+            "https://reactjs.org/docs/getting-started.html",
+            "https://flask.palletsprojects.com/"
+        ]
+    },
+    "Career Path 126": {
+        "skills": [
+            "oop",
+            "nlp",
+            "teamwork",
+            "c++"
+        ],
+        "projects": [
+            "Expense Manager",
+            "Data Visualizer",
+            "Personal Finance Manager"
+        ],
+        "resources": [
+            "https://ocw.mit.edu/",
+            "https://developer.apple.com/",
+            "https://www.kaggle.com/learn",
+            "https://www.coursera.org"
+        ]
+    },
+    "Career Path 127": {
+        "skills": [
+            "algorithms",
+            "seo",
+            "data structures",
+            "swift"
+        ],
+        "projects": [
+            "Speech-to-Text App",
+            "Blog Platform",
+            "Online Judge System",
+            "Math Solver"
+        ],
+        "resources": [
+            "https://keras.io/examples/",
+            "https://learn.microsoft.com/en-us/training/",
+            "https://docs.github.com/",
+            "https://pytorch.org/tutorials/",
+            "https://brilliant.org/"
+        ]
+    },
+    "Career Path 128": {
+        "skills": [
+            "agile",
+            "gcp",
+            "kubernetes",
+            "nlp",
+            "bash",
+            "spring",
+            "rest api"
+        ],
+        "projects": [
+            "Login System",
+            "Weather App",
+            "PDF to Text Converter",
+            "Portfolio with Blog + CMS"
+        ],
+        "resources": [
+            "https://realpython.com/",
+            "https://www.edx.org/",
+            "https://www.hackerrank.com/"
+        ]
+    },
+    "Career Path 129": {
+        "skills": [
+            "agile",
+            "react",
+            "nlp",
+            "deep learning",
+            "networking",
+            "design patterns",
+            "kotlin"
+        ],
+        "projects": [
+            "PDF to Text Converter",
+            "E-commerce Store",
+            "Data Visualizer"
+        ],
+        "resources": [
+            "https://firebase.google.com/docs",
+            "https://www.datacamp.com/",
+            "https://www.leetcode.com/",
+            "https://kubernetes.io/docs/home/",
+            "https://flask.palletsprojects.com/"
+        ]
+    },
+    "Career Path 130": {
+        "skills": [
+            "kubernetes",
+            "nodejs",
+            "bash",
+            "scrum",
+            "statistics",
+            "c",
+            "nextjs"
+        ],
+        "projects": [
+            "Voice-controlled App",
+            "Crypto Dashboard",
+            "Online Judge System"
+        ],
+        "resources": [
+            "https://www.leetcode.com/",
+            "https://spring.io/guides",
+            "https://ocw.mit.edu/",
+            "https://www.youtube.com/@TheCodingTrain",
+            "https://www.w3schools.com/"
+        ]
+    },
+    "Career Path 131": {
+        "skills": [
+            "deep learning",
+            "data structures",
+            "graphql",
+            "opencv",
+            "azure"
+        ],
+        "projects": [
+            "3D Model Viewer",
+            "Crypto Dashboard",
+            "Stock Price Tracker"
+        ],
+        "resources": [
+            "https://www.youtube.com/@TheCodingTrain",
+            "https://docs.github.com/",
+            "https://machinelearningmastery.com/"
+        ]
+    },
+    "Career Path 132": {
+        "skills": [
+            "teamwork",
+            "css",
+            "linux",
+            "nodejs",
+            "typescript",
+            "kubernetes",
+            "problem solving"
+        ],
+        "projects": [
+            "Blog Platform",
+            "Stock Market Alert Bot",
+            "Crypto Dashboard",
+            "Flight Price Predictor"
+        ],
+        "resources": [
+            "https://ocw.mit.edu/",
+            "https://realpython.com/",
+            "https://cs50.harvard.edu/x/",
+            "https://docs.docker.com/"
+        ]
+    },
+    "Career Path 133": {
+        "skills": [
+            "bash",
+            "postgresql",
+            "nodejs",
+            "graphql",
+            "typescript"
+        ],
+        "projects": [
+            "3D Model Viewer",
+            "Online Judge System",
+            "Video Editing Tool"
+        ],
+        "resources": [
+            "https://developer.apple.com/",
+            "https://cs50.harvard.edu/x/",
+            "https://docs.docker.com/",
+            "https://www.leetcode.com/",
+            "https://www.coursera.org"
+        ]
+    },
+    "Career Path 134": {
+        "skills": [
+            "django",
+            "project management",
+            "git",
+            "docker",
+            "python",
+            "c#",
+            "express"
+        ],
+        "projects": [
+            "Quiz App",
+            "Movie Recommender System",
+            "Speech-to-Text App"
+        ],
+        "resources": [
+            "https://www.udemy.com",
+            "https://keras.io/examples/",
+            "https://cs50.harvard.edu/x/",
+            "https://docs.github.com/"
+        ]
+    },
+    "Career Path 135": {
+        "skills": [
+            "css",
+            "machine learning",
+            "maths",
+            "deep learning",
+            "adobe xd",
+            "ux research",
+            "sql"
+        ],
+        "projects": [
+            "Flight Price Predictor",
+            "Personal Finance Manager",
+            "Quiz App"
+        ],
+        "resources": [
+            "https://developer.android.com/training",
+            "https://www.freecodecamp.org/learn",
+            "https://learn.microsoft.com/en-us/training/",
+            "https://www.coursera.org"
+        ]
+    },
+    "Career Path 136": {
+        "skills": [
+            "html",
+            "problem solving",
+            "c#",
+            "machine learning",
+            "aws",
+            "css",
+            "statistics"
+        ],
+        "projects": [
+            "Quiz App",
+            "3D Model Viewer",
+            "Banking System in Java",
+            "Online Code Editor"
+        ],
+        "resources": [
+            "https://expressjs.com/",
+            "https://www.leetcode.com/",
+            "https://nodejs.org/en/learn",
+            "https://developer.apple.com/",
+            "https://www.freecodecamp.org/learn"
+        ]
+    },
+    "Career Path 137": {
+        "skills": [
+            "teamwork",
+            "physics",
+            "nextjs",
+            "rest api",
+            "seo",
+            "dart"
+        ],
+        "projects": [
+            "Portfolio Website",
+            "Virtual Lab Simulation",
+            "Login System",
+            "Personal Finance Manager"
+        ],
+        "resources": [
+            "https://reactjs.org/docs/getting-started.html",
+            "https://cs50.harvard.edu/x/",
+            "https://docs.github.com/"
+        ]
+    },
+    "Career Path 138": {
+        "skills": [
+            "github",
+            "matplotlib",
+            "graphql",
+            "ui design",
+            "python",
+            "adobe xd"
+        ],
+        "projects": [
+            "Physics Simulation",
+            "Personal Finance Manager",
+            "ToDo App",
+            "Compiler in C"
+        ],
+        "resources": [
+            "https://www.geeksforgeeks.org/",
+            "https://docs.docker.com/",
+            "https://developer.mozilla.org/en-US/",
+            "https://www.datacamp.com/"
+        ]
+    },
+    "Career Path 139": {
+        "skills": [
+            "kubernetes",
+            "typescript",
+            "deep learning",
+            "statistics",
+            "scrum"
+        ],
+        "projects": [
+            "AI Chatbot",
+            "Fitness Tracker",
+            "Online Code Editor",
+            "Weather App"
+        ],
+        "resources": [
+            "https://docs.python.org/3/",
+            "https://developer.android.com/training",
+            "https://www.udemy.com",
+            "https://docs.docker.com/"
+        ]
+    },
+    "Career Path 140": {
+        "skills": [
+            "networking",
+            "aws",
+            "seo",
+            "teamwork",
+            "html",
+            "express",
+            "numpy"
+        ],
+        "projects": [
+            "Object Detector",
+            "Multi-language Translator",
+            "Face Recognition Attendance"
+        ],
+        "resources": [
+            "https://spring.io/guides",
+            "https://www.youtube.com/@Fireship",
+            "https://www.w3schools.com/",
+            "https://firebase.google.com/docs"
+        ]
+    },
+    "Career Path 141": {
+        "skills": [
+            "statistics",
+            "github",
+            "kubernetes",
+            "figma",
+            "express"
+        ],
+        "projects": [
+            "Chat App",
+            "E-commerce Store",
+            "Voice-controlled App",
+            "Math Solver"
+        ],
+        "resources": [
+            "https://flask.palletsprojects.com/",
+            "https://www.youtube.com/@TheCodingTrain",
+            "https://reactjs.org/docs/getting-started.html",
+            "https://developer.android.com/training",
+            "https://keras.io/examples/"
+        ]
+    },
+    "Career Path 142": {
+        "skills": [
+            "bash",
+            "gcp",
+            "nodejs",
+            "algorithms",
+            "deep learning",
+            "spring",
+            "nlp"
+        ],
+        "projects": [
+            "Online Judge System",
+            "Social Media Dashboard",
+            "Data Visualizer"
+        ],
+        "resources": [
+            "https://kubernetes.io/docs/home/",
+            "https://developer.apple.com/",
+            "https://pytorch.org/tutorials/",
+            "https://www.leetcode.com/",
+            "https://docs.docker.com/"
+        ]
+    },
+    "Career Path 143": {
+        "skills": [
+            "teamwork",
+            "c++",
+            "typescript",
+            "graphql",
+            "cybersecurity"
+        ],
+        "projects": [
+            "Object Detector",
+            "Portfolio with Blog + CMS",
+            "Task Scheduler",
+            "Online Code Editor"
+        ],
+        "resources": [
+            "https://docs.python.org/3/",
+            "https://roadmap.sh/",
+            "https://machinelearningmastery.com/",
+            "https://www.coursera.org"
+        ]
+    },
+    "Career Path 144": {
+        "skills": [
+            "matplotlib",
+            "design patterns",
+            "mongodb",
+            "nodejs",
+            "css",
+            "javascript"
+        ],
+        "projects": [
+            "Social Media Dashboard",
+            "Blog Platform",
+            "Data Visualizer"
+        ],
+        "resources": [
+            "https://reactjs.org/docs/getting-started.html",
+            "https://developer.apple.com/",
+            "https://keras.io/examples/",
+            "https://github.com/explore"
+        ]
+    },
+    "Career Path 145": {
+        "skills": [
+            "firebase",
+            "ux research",
+            "flask",
+            "nextjs",
+            "design patterns",
+            "public speaking"
+        ],
+        "projects": [
+            "Chat App",
+            "E-commerce Store",
+            "Movie Recommender System",
+            "Currency Converter"
+        ],
+        "resources": [
+            "https://learn.microsoft.com/en-us/training/",
+            "https://pytorch.org/tutorials/",
+            "https://www.edx.org/",
+            "https://www.coursera.org",
+            "https://docs.docker.com/"
+        ]
+    },
+    "Career Path 146": {
+        "skills": [
+            "c",
+            "ui design",
+            "c++",
+            "gcp",
+            "agile",
+            "postgresql",
+            "sql"
+        ],
+        "projects": [
+            "News Aggregator",
+            "Instagram Clone",
+            "Online Judge System",
+            "Voice-controlled App"
+        ],
+        "resources": [
+            "https://nodejs.org/en/learn",
+            "https://cloud.google.com/docs",
+            "https://docs.opencv.org/"
+        ]
+    },
+    "Career Path 147": {
+        "skills": [
+            "aws",
+            "flask",
+            "flutter",
+            "express"
+        ],
+        "projects": [
+            "Job Recommendation System",
+            "Online Judge System",
+            "AI Chatbot",
+            "3D Model Viewer"
+        ],
+        "resources": [
+            "https://keras.io/examples/",
+            "https://www.youtube.com/@TechWithTim",
+            "https://machinelearningmastery.com/"
+        ]
+    },
+    "Career Path 148": {
+        "skills": [
+            "maths",
+            "calculus",
+            "r",
+            "django",
+            "seo",
+            "oop"
+        ],
+        "projects": [
+            "3D Model Viewer",
+            "Login System",
+            "Fitness Tracker"
+        ],
+        "resources": [
+            "https://machinelearningmastery.com/",
+            "https://www.youtube.com/@TechWithTim",
+            "https://cloud.google.com/docs",
+            "https://developer.mozilla.org/en-US/"
+        ]
+    },
+    "Career Path 149": {
+        "skills": [
+            "c#",
+            "calculus",
+            "spring",
+            "kotlin",
+            "aws",
+            "nodejs"
+        ],
+        "projects": [
+            "Online Survey System",
+            "E-commerce Store",
+            "3D Model Viewer"
+        ],
+        "resources": [
+            "https://www.geeksforgeeks.org/",
+            "https://www.datacamp.com/",
+            "https://developer.mozilla.org/en-US/",
+            "https://www.youtube.com/@TechWithTim",
+            "https://brilliant.org/"
+        ]
+    },
+    "Career Path 150": {
+        "skills": [
+            "algorithms",
+            "bash",
+            "scrum",
+            "oop",
+            "content writing",
+            "c++"
+        ],
+        "projects": [
+            "Instagram Clone",
+            "News Aggregator",
+            "Online Code Editor"
+        ],
+        "resources": [
+            "https://reactjs.org/docs/getting-started.html",
+            "https://brilliant.org/",
+            "https://flask.palletsprojects.com/",
+            "https://developer.android.com/training"
+        ]
+    },
+    "Career Path 151": {
+        "skills": [
+            "microservices",
+            "graphql",
+            "postgresql",
+            "public speaking",
+            "seo"
+        ],
+        "projects": [
+            "Chat App",
+            "Real-time Chat + Video App",
+            "Fitness Tracker"
+        ],
+        "resources": [
+            "https://pytorch.org/tutorials/",
+            "https://www.youtube.com/@TheCodingTrain",
+            "https://aws.amazon.com/training/",
+            "https://nodejs.org/en/learn",
+            "https://developer.apple.com/"
+        ]
+    },
+    "Career Path 152": {
+        "skills": [
+            "nextjs",
+            "kubernetes",
+            "matplotlib",
+            "c++"
+        ],
+        "projects": [
+            "Multi-language Translator",
+            "Math Solver",
+            "Instagram Clone",
+            "Social Media Dashboard"
+        ],
+        "resources": [
+            "https://learn.microsoft.com/en-us/training/",
+            "https://www.hackerrank.com/",
+            "https://www.datacamp.com/"
+        ]
+    },
+    "Career Path 153": {
+        "skills": [
+            "r",
+            "express",
+            "gcp",
+            "javascript",
+            "html"
+        ],
+        "projects": [
+            "Multi-language Translator",
+            "Online Code Editor",
+            "Online Judge System"
+        ],
+        "resources": [
+            "https://docs.python.org/3/",
+            "https://docs.github.com/",
+            "https://roadmap.sh/",
+            "https://www.datacamp.com/"
+        ]
+    },
+    "Career Path 154": {
+        "skills": [
+            "numpy",
+            "data structures",
+            "react",
+            "html",
+            "project management",
+            "machine learning",
+            "algorithms"
+        ],
+        "projects": [
+            "Banking System in Java",
+            "Virtual Classroom",
+            "Typing Speed Game"
+        ],
+        "resources": [
+            "https://www.coursera.org",
+            "https://expressjs.com/",
+            "https://www.hackerrank.com/"
+        ]
+    },
+    "Career Path 155": {
+        "skills": [
+            "bash",
+            "spring",
+            "flask",
+            "r",
+            "microservices"
+        ],
+        "projects": [
+            "Job Recommendation System",
+            "Compiler in C",
+            "Typing Speed Game",
+            "Resume Builder"
+        ],
+        "resources": [
+            "https://www.codecademy.com/",
+            "https://brilliant.org/",
+            "https://www.kaggle.com/learn",
+            "https://www.edx.org/"
+        ]
+    },
+    "Career Path 156": {
+        "skills": [
+            "gcp",
+            "flutter",
+            "git",
+            "pandas"
+        ],
+        "projects": [
+            "Chat App",
+            "PDF to Text Converter",
+            "Instagram Clone"
+        ],
+        "resources": [
+            "https://expressjs.com/",
+            "https://www.youtube.com/@Fireship",
+            "https://www.hackerrank.com/",
+            "https://www.kaggle.com/learn"
+        ]
+    },
+    "Career Path 157": {
+        "skills": [
+            "design patterns",
+            "spring",
+            "typescript",
+            "microservices",
+            "docker"
+        ],
+        "projects": [
+            "Fitness Tracker",
+            "Movie Recommender System",
+            "Online Judge System",
+            "News Aggregator"
+        ],
+        "resources": [
+            "https://www.codecademy.com/",
+            "https://www.w3schools.com/",
+            "https://www.youtube.com/@TheCodingTrain"
+        ]
+    },
+    "Career Path 158": {
+        "skills": [
+            "graphql",
+            "firebase",
+            "docker",
+            "nlp",
+            "data structures",
+            "html"
+        ],
+        "projects": [
+            "Note Keeper",
+            "Real-time Chat + Video App",
+            "Multi-language Translator"
+        ],
+        "resources": [
+            "https://developer.android.com/training",
+            "https://realpython.com/",
+            "https://nodejs.org/en/learn",
+            "https://aws.amazon.com/training/",
+            "https://www.udemy.com"
+        ]
+    },
+    "Career Path 159": {
+        "skills": [
+            "data structures",
+            "statistics",
+            "content writing",
+            "teamwork",
+            "graphql",
+            "react"
+        ],
+        "projects": [
+            "Expense Manager",
+            "Object Detector",
+            "Fitness Tracker",
+            "Typing Speed Game"
+        ],
+        "resources": [
+            "https://www.geeksforgeeks.org/",
+            "https://www.w3schools.com/",
+            "https://docs.python.org/3/",
+            "https://nodejs.org/en/learn",
+            "https://www.codecademy.com/"
+        ]
+    },
+    "Career Path 160": {
+        "skills": [
+            "matplotlib",
+            "content writing",
+            "javascript",
+            "github",
+            "seo",
+            "networking"
+        ],
+        "projects": [
+            "Social Media Dashboard",
+            "Resume Builder",
+            "Virtual Lab Simulation",
+            "Physics Simulation"
+        ],
+        "resources": [
+            "https://developer.mozilla.org/en-US/",
+            "https://developer.apple.com/",
+            "https://docs.opencv.org/"
+        ]
+    },
+    "Career Path 161": {
+        "skills": [
+            "physics",
+            "scrum",
+            "oop",
+            "communication",
+            "adobe xd"
+        ],
+        "projects": [
+            "Math Solver",
+            "Social Media Dashboard",
+            "Compiler in C"
+        ],
+        "resources": [
+            "https://www.udemy.com",
+            "https://github.com/explore",
+            "https://nodejs.org/en/learn",
+            "https://firebase.google.com/docs",
+            "https://roadmap.sh/"
+        ]
+    },
+    "Career Path 162": {
+        "skills": [
+            "scrum",
+            "html",
+            "typescript",
+            "microservices",
+            "azure"
+        ],
+        "projects": [
+            "Flight Price Predictor",
+            "Blog Platform",
+            "Voice-controlled App",
+            "Physics Simulation"
+        ],
+        "resources": [
+            "https://www.hackerrank.com/",
+            "https://docs.docker.com/",
+            "https://kubernetes.io/docs/home/",
+            "https://www.freecodecamp.org/learn"
+        ]
+    },
+    "Career Path 163": {
+        "skills": [
+            "data structures",
+            "nlp",
+            "machine learning",
+            "design patterns"
+        ],
+        "projects": [
+            "Crypto Dashboard",
+            "Video Editing Tool",
+            "ToDo App",
+            "Movie Recommender System"
+        ],
+        "resources": [
+            "https://www.youtube.com/@TheCodingTrain",
+            "https://pytorch.org/tutorials/",
+            "https://developer.apple.com/",
+            "https://spring.io/guides"
+        ]
+    },
+    "Career Path 164": {
+        "skills": [
+            "flutter",
+            "problem solving",
+            "adobe xd",
+            "kotlin",
+            "project management"
+        ],
+        "projects": [
+            "Online Survey System",
+            "Virtual Classroom",
+            "Chat App",
+            "YouTube Audio Downloader"
+        ],
+        "resources": [
+            "https://brilliant.org/",
+            "https://expressjs.com/",
+            "https://machinelearningmastery.com/"
+        ]
+    },
+    "Career Path 165": {
+        "skills": [
+            "ui design",
+            "flask",
+            "typescript",
+            "docker"
+        ],
+        "projects": [
+            "Job Recommendation System",
+            "Flight Price Predictor",
+            "Voice-controlled App",
+            "Portfolio with Blog + CMS"
+        ],
+        "resources": [
+            "https://ocw.mit.edu/",
+            "https://www.youtube.com/@TheCodingTrain",
+            "https://www.w3schools.com/",
+            "https://docs.opencv.org/"
+        ]
+    },
+    "Career Path 166": {
+        "skills": [
+            "c++",
+            "calculus",
+            "github",
+            "cybersecurity",
+            "react",
+            "python"
+        ],
+        "projects": [
+            "Real-time Chat + Video App",
+            "Virtual Lab Simulation",
+            "Stock Market Alert Bot",
+            "Job Recommendation System"
+        ],
+        "resources": [
+            "https://docs.docker.com/",
+            "https://www.kaggle.com/learn",
+            "https://aws.amazon.com/training/",
+            "https://nodejs.org/en/learn",
+            "https://github.com/explore"
+        ]
+    },
+    "Career Path 167": {
+        "skills": [
+            "agile",
+            "firebase",
+            "deep learning",
+            "machine learning",
+            "matplotlib"
+        ],
+        "projects": [
+            "Multi-language Translator",
+            "Instagram Clone",
+            "Face Recognition Attendance"
+        ],
+        "resources": [
+            "https://www.kaggle.com/learn",
+            "https://www.hackerrank.com/",
+            "https://cs50.harvard.edu/x/"
+        ]
+    },
+    "Career Path 168": {
+        "skills": [
+            "communication",
+            "oop",
+            "dart",
+            "kubernetes"
+        ],
+        "projects": [
+            "Online Survey System",
+            "Virtual Classroom",
+            "YouTube Audio Downloader",
+            "IoT Device Controller"
+        ],
+        "resources": [
+            "https://flask.palletsprojects.com/",
+            "https://www.kaggle.com/learn",
+            "https://developer.android.com/training",
+            "https://kubernetes.io/docs/home/"
+        ]
+    },
+    "Career Path 169": {
+        "skills": [
+            "linear algebra",
+            "kotlin",
+            "problem solving",
+            "figma",
+            "graphql",
+            "physics",
+            "cybersecurity"
+        ],
+        "projects": [
+            "Virtual Classroom",
+            "Typing Speed Game",
+            "News Aggregator",
+            "Resume Builder"
+        ],
+        "resources": [
+            "https://www.geeksforgeeks.org/",
+            "https://developer.apple.com/",
+            "https://spring.io/guides",
+            "https://expressjs.com/"
+        ]
+    },
+    "Career Path 170": {
+        "skills": [
+            "spring",
+            "typescript",
+            "rest api",
+            "bash",
+            "pandas",
+            "agile",
+            "networking"
+        ],
+        "projects": [
+            "Virtual Classroom",
+            "Task Scheduler",
+            "Movie Recommender System"
+        ],
+        "resources": [
+            "https://kubernetes.io/docs/home/",
+            "https://nodejs.org/en/learn",
+            "https://www.udemy.com"
+        ]
+    },
+    "Career Path 171": {
+        "skills": [
+            "html",
+            "mongodb",
+            "design patterns",
+            "calculus",
+            "aws",
+            "public speaking",
+            "adobe xd"
+        ],
+        "projects": [
+            "Voice-controlled App",
+            "Video Streaming Platform",
+            "Data Visualizer"
+        ],
+        "resources": [
+            "https://www.coursera.org",
+            "https://reactjs.org/docs/getting-started.html",
+            "https://docs.docker.com/"
+        ]
+    },
+    "Career Path 172": {
+        "skills": [
+            "html",
+            "dart",
+            "figma",
+            "rest api",
+            "nodejs"
+        ],
+        "projects": [
+            "Expense Manager",
+            "Login System",
+            "Math Solver",
+            "E-commerce Store"
+        ],
+        "resources": [
+            "https://machinelearningmastery.com/",
+            "https://ocw.mit.edu/",
+            "https://www.codecademy.com/"
+        ]
+    },
+    "Career Path 173": {
+        "skills": [
+            "content writing",
+            "rest api",
+            "kubernetes",
+            "graphql",
+            "maths"
+        ],
+        "projects": [
+            "Online Judge System",
+            "Instagram Clone",
+            "Blog Platform",
+            "Note Keeper"
+        ],
+        "resources": [
+            "https://reactjs.org/docs/getting-started.html",
+            "https://docs.python.org/3/",
+            "https://www.youtube.com/@TheCodingTrain",
+            "https://spring.io/guides",
+            "https://brilliant.org/"
+        ]
+    },
+    "Career Path 174": {
+        "skills": [
+            "kotlin",
+            "kubernetes",
+            "teamwork",
+            "azure",
+            "oop",
+            "physics",
+            "networking"
+        ],
+        "projects": [
+            "IoT Device Controller",
+            "Quiz App",
+            "Video Editing Tool"
+        ],
+        "resources": [
+            "https://firebase.google.com/docs",
+            "https://developer.android.com/training",
+            "https://www.w3schools.com/",
+            "https://docs.opencv.org/",
+            "https://www.youtube.com/@TechWithTim"
+        ]
+    },
+    "Career Path 175": {
+        "skills": [
+            "spring",
+            "java",
+            "docker",
+            "deep learning",
+            "algorithms",
+            "aws",
+            "ui design"
+        ],
+        "projects": [
+            "Task Scheduler",
+            "Online Code Editor",
+            "Multi-language Translator",
+            "Flight Price Predictor"
+        ],
+        "resources": [
+            "https://cs50.harvard.edu/x/",
+            "https://aws.amazon.com/training/",
+            "https://developer.android.com/training",
+            "https://docs.python.org/3/"
+        ]
+    },
+    "Career Path 176": {
+        "skills": [
+            "python",
+            "react",
+            "communication",
+            "linear algebra"
+        ],
+        "projects": [
+            "Flight Price Predictor",
+            "Resume Builder",
+            "Banking System in Java"
+        ],
+        "resources": [
+            "https://flask.palletsprojects.com/",
+            "https://www.hackerrank.com/",
+            "https://cs50.harvard.edu/x/",
+            "https://www.codecademy.com/",
+            "https://docs.opencv.org/"
+        ]
+    },
+    "Career Path 177": {
+        "skills": [
+            "nlp",
+            "calculus",
+            "numpy",
+            "opencv",
+            "git",
+            "statistics"
+        ],
+        "projects": [
+            "Object Detector",
+            "Blog Platform",
+            "Banking System in Java"
+        ],
+        "resources": [
+            "https://firebase.google.com/docs",
+            "https://www.w3schools.com/",
+            "https://flask.palletsprojects.com/",
+            "https://docs.python.org/3/",
+            "https://www.leetcode.com/"
+        ]
+    },
+    "Career Path 178": {
+        "skills": [
+            "express",
+            "javascript",
+            "graphql",
+            "sql",
+            "kotlin"
+        ],
+        "projects": [
+            "Login System",
+            "Instagram Clone",
+            "Social Media Dashboard"
+        ],
+        "resources": [
+            "https://www.kaggle.com/learn",
+            "https://ocw.mit.edu/",
+            "https://developer.mozilla.org/en-US/",
+            "https://reactjs.org/docs/getting-started.html",
+            "https://realpython.com/"
+        ]
+    },
+    "Career Path 179": {
+        "skills": [
+            "nlp",
+            "flask",
+            "c++",
+            "rest api",
+            "html"
+        ],
+        "projects": [
+            "Compiler in C",
+            "Portfolio Website",
+            "Math Solver"
+        ],
+        "resources": [
+            "https://www.youtube.com/@Fireship",
+            "https://keras.io/examples/",
+            "https://www.youtube.com/@TheCodingTrain",
+            "https://spring.io/guides",
+            "https://www.geeksforgeeks.org/"
+        ]
+    },
+    "Career Path 180": {
+        "skills": [
+            "react",
+            "communication",
+            "typescript",
+            "adobe xd",
+            "docker"
+        ],
+        "projects": [
+            "Social Media Dashboard",
+            "Weather App",
+            "Data Visualizer",
+            "Fitness Tracker"
+        ],
+        "resources": [
+            "https://developer.android.com/training",
+            "https://www.edx.org/",
+            "https://kubernetes.io/docs/home/",
+            "https://developer.mozilla.org/en-US/",
+            "https://docs.docker.com/"
+        ]
+    },
+    "Career Path 181": {
+        "skills": [
+            "figma",
+            "nextjs",
+            "scrum",
+            "linear algebra"
+        ],
+        "projects": [
+            "Weather App",
+            "Login System",
+            "Chat App"
+        ],
+        "resources": [
+            "https://www.w3schools.com/",
+            "https://brilliant.org/",
+            "https://ocw.mit.edu/",
+            "https://reactjs.org/docs/getting-started.html",
+            "https://www.edx.org/"
+        ]
+    },
+    "Career Path 182": {
+        "skills": [
+            "spring",
+            "agile",
+            "deep learning",
+            "flutter",
+            "ui design",
+            "javascript",
+            "swift"
+        ],
+        "projects": [
+            "Online Judge System",
+            "Blog Platform",
+            "Video Editing Tool"
+        ],
+        "resources": [
+            "https://learn.microsoft.com/en-us/training/",
+            "https://www.coursera.org",
+            "https://realpython.com/",
+            "https://expressjs.com/"
+        ]
+    },
+    "Career Path 183": {
+        "skills": [
+            "physics",
+            "mongodb",
+            "calculus",
+            "project management",
+            "r",
+            "java"
+        ],
+        "projects": [
+            "Typing Speed Game",
+            "Quiz App",
+            "Job Recommendation System"
+        ],
+        "resources": [
+            "https://www.codecademy.com/",
+            "https://www.w3schools.com/",
+            "https://kubernetes.io/docs/home/",
+            "https://www.geeksforgeeks.org/",
+            "https://www.edx.org/"
+        ]
+    },
+    "Career Path 184": {
+        "skills": [
+            "data structures",
+            "communication",
+            "mongodb",
+            "linear algebra",
+            "content writing",
+            "c",
+            "nlp"
+        ],
+        "projects": [
+            "Social Media Dashboard",
+            "YouTube Audio Downloader",
+            "3D Model Viewer",
+            "Quiz App"
+        ],
+        "resources": [
+            "https://cs50.harvard.edu/x/",
+            "https://expressjs.com/",
+            "https://kubernetes.io/docs/home/",
+            "https://spring.io/guides",
+            "https://machinelearningmastery.com/"
+        ]
+    },
+    "Career Path 185": {
+        "skills": [
+            "github",
+            "ui design",
+            "c",
+            "scrum",
+            "algorithms",
+            "html"
+        ],
+        "projects": [
+            "E-commerce Store",
+            "Virtual Lab Simulation",
+            "Face Recognition Attendance",
+            "Fitness Tracker"
+        ],
+        "resources": [
+            "https://www.kaggle.com/learn",
+            "https://machinelearningmastery.com/",
+            "https://www.datacamp.com/"
+        ]
+    },
+    "Career Path 186": {
+        "skills": [
+            "django",
+            "docker",
+            "ui design",
+            "javascript",
+            "c",
+            "design patterns",
+            "c++"
+        ],
+        "projects": [
+            "Banking System in Java",
+            "Stock Price Tracker",
+            "Portfolio Website",
+            "Note Keeper"
+        ],
+        "resources": [
+            "https://docs.github.com/",
+            "https://docs.opencv.org/",
+            "https://github.com/explore"
+        ]
+    },
+    "Career Path 187": {
+        "skills": [
+            "design patterns",
+            "git",
+            "ui design",
+            "maths",
+            "cybersecurity",
+            "communication"
+        ],
+        "projects": [
+            "Stock Price Tracker",
+            "PDF to Text Converter",
+            "ToDo App"
+        ],
+        "resources": [
+            "https://realpython.com/",
+            "https://spring.io/guides",
+            "https://developer.apple.com/"
+        ]
+    },
+    "Career Path 188": {
+        "skills": [
+            "c++",
+            "project management",
+            "firebase",
+            "maths",
+            "express",
+            "matplotlib",
+            "dart"
+        ],
+        "projects": [
+            "Resume Builder",
+            "Job Recommendation System",
+            "Movie Recommender System"
+        ],
+        "resources": [
+            "https://roadmap.sh/",
+            "https://brilliant.org/",
+            "https://docs.opencv.org/"
+        ]
+    },
+    "Career Path 189": {
+        "skills": [
+            "pandas",
+            "postgresql",
+            "project management",
+            "bash",
+            "public speaking",
+            "linux",
+            "ui design"
+        ],
+        "projects": [
+            "Blog Platform",
+            "Chat App",
+            "AI Chatbot",
+            "Fitness Tracker"
+        ],
+        "resources": [
+            "https://www.freecodecamp.org/learn",
+            "https://kubernetes.io/docs/home/",
+            "https://developer.android.com/training",
+            "https://www.udemy.com",
+            "https://docs.opencv.org/"
+        ]
+    },
+    "Career Path 190": {
+        "skills": [
+            "azure",
+            "maths",
+            "scrum",
+            "r",
+            "machine learning",
+            "oop",
+            "postgresql"
+        ],
+        "projects": [
+            "AI Chatbot",
+            "Math Solver",
+            "E-commerce Store",
+            "Flight Price Predictor"
+        ],
+        "resources": [
+            "https://learn.microsoft.com/en-us/training/",
+            "https://www.youtube.com/@TechWithTim",
+            "https://www.youtube.com/@TheCodingTrain",
+            "https://docs.opencv.org/",
+            "https://expressjs.com/"
+        ]
+    },
+    "Career Path 191": {
+        "skills": [
+            "python",
+            "git",
+            "swift",
+            "content writing",
+            "spring",
+            "figma"
+        ],
+        "projects": [
+            "PDF to Text Converter",
+            "Image Classifier",
+            "Physics Simulation"
+        ],
+        "resources": [
+            "https://machinelearningmastery.com/",
+            "https://www.freecodecamp.org/learn",
+            "https://docs.github.com/",
+            "https://expressjs.com/"
+        ]
+    },
+    "Career Path 192": {
+        "skills": [
+            "ui design",
+            "rest api",
+            "physics",
+            "oop"
+        ],
+        "projects": [
+            "Math Solver",
+            "Online Survey System",
+            "Voice-controlled App"
+        ],
+        "resources": [
+            "https://www.datacamp.com/",
+            "https://realpython.com/",
+            "https://www.w3schools.com/"
+        ]
+    },
+    "Career Path 193": {
+        "skills": [
+            "opencv",
+            "physics",
+            "django",
+            "maths",
+            "rest api"
+        ],
+        "projects": [
+            "Voice-controlled App",
+            "Math Solver",
+            "Online Judge System",
+            "Typing Speed Game"
+        ],
+        "resources": [
+            "https://www.hackerrank.com/",
+            "https://reactjs.org/docs/getting-started.html",
+            "https://www.kaggle.com/learn",
+            "https://www.leetcode.com/"
+        ]
+    },
+    "Career Path 194": {
+        "skills": [
+            "nlp",
+            "agile",
+            "teamwork",
+            "algorithms",
+            "firebase"
+        ],
+        "projects": [
+            "Online Survey System",
+            "Voice-controlled App",
+            "Video Streaming Platform",
+            "Physics Simulation"
+        ],
+        "resources": [
+            "https://pytorch.org/tutorials/",
+            "https://www.edx.org/",
+            "https://www.datacamp.com/",
+            "https://spring.io/guides",
+            "https://www.codecademy.com/"
+        ]
+    },
+    "Career Path 195": {
+        "skills": [
+            "postgresql",
+            "pandas",
+            "opencv",
+            "bash"
+        ],
+        "projects": [
+            "Note Keeper",
+            "Quiz App",
+            "Physics Simulation"
+        ],
+        "resources": [
+            "https://kubernetes.io/docs/home/",
+            "https://www.w3schools.com/",
+            "https://www.youtube.com/@Fireship",
+            "https://www.coursera.org",
+            "https://www.kaggle.com/learn"
+        ]
+    },
+    "Career Path 196": {
+        "skills": [
+            "graphql",
+            "rest api",
+            "content writing",
+            "ui design",
+            "opencv"
+        ],
+        "projects": [
+            "Blog Platform",
+            "Typing Speed Game",
+            "Weather App",
+            "IoT Device Controller"
+        ],
+        "resources": [
+            "https://roadmap.sh/",
+            "https://www.freecodecamp.org/learn",
+            "https://firebase.google.com/docs"
+        ]
+    },
+    "Career Path 197": {
+        "skills": [
+            "mongodb",
+            "deep learning",
+            "python",
+            "oop",
+            "bash"
+        ],
+        "projects": [
+            "Note Keeper",
+            "Compiler in C",
+            "AI Chatbot"
+        ],
+        "resources": [
+            "https://cloud.google.com/docs",
+            "https://nodejs.org/en/learn",
+            "https://docs.docker.com/",
+            "https://www.geeksforgeeks.org/",
+            "https://machinelearningmastery.com/"
+        ]
+    },
+    "Career Path 198": {
+        "skills": [
+            "kotlin",
+            "pandas",
+            "numpy",
+            "ui design",
+            "flutter"
+        ],
+        "projects": [
+            "Note Keeper",
+            "Expense Manager",
+            "ToDo App"
+        ],
+        "resources": [
+            "https://realpython.com/",
+            "https://www.geeksforgeeks.org/",
+            "https://machinelearningmastery.com/",
+            "https://www.kaggle.com/learn",
+            "https://github.com/explore"
+        ]
+    },
+    "Career Path 199": {
+        "skills": [
+            "physics",
+            "statistics",
+            "agile",
+            "public speaking",
+            "content writing",
+            "matplotlib",
+            "algorithms"
+        ],
+        "projects": [
+            "Physics Simulation",
+            "Object Detector",
+            "Movie Recommender System"
+        ],
+        "resources": [
+            "https://docs.opencv.org/",
+            "https://www.edx.org/",
+            "https://ocw.mit.edu/"
+        ]
+    },
+    "Career Path 200": {
+        "skills": [
+            "numpy",
+            "maths",
+            "flutter",
+            "cybersecurity",
+            "ux research",
+            "adobe xd",
+            "seo"
+        ],
+        "projects": [
+            "ToDo App",
+            "Online Survey System",
+            "Virtual Lab Simulation",
+            "Multi-language Translator"
+        ],
+        "resources": [
+            "https://machinelearningmastery.com/",
+            "https://www.udemy.com",
+            "https://www.leetcode.com/",
+            "https://www.freecodecamp.org/learn"
+        ]
+    }
+}
